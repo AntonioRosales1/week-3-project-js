@@ -1,0 +1,41 @@
+body{
+    background-color: #dcf5f3;
+}
+.top{
+    
+   background-color: #ffe4e1;
+
+}
+.top .inTop .menu{
+    display: block;
+    display: inline-block;
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    list-style: none;
+    padding: 25px 25px 5px 10px;
+    
+}
+.c1{
+    
+    border-radius: 25px 25px 25px 25px;
+    width: 350px;
+    height: 350px;
+    background-color: blue;
+}
+.sale1{
+    align-items: center;
+   background-color: #ffe4e1;
+   padding: 15px 15px 15px 15px;
+   width: 350px;
+   border-radius: 10px 10px 10px 10px;
+}
+.btn{
+    background-color: #fda50f;
+    border-radius: 5px 5px 5px 5px;
+    align-items: center;
+}
+.container1{
+    
+}
+    
+ 
